@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Multi Moduler</string>
+    <string name="title_oninstall">On Install</string>
+    <string name="title_ondemand">On Demand</string>
+</resources>
