@@ -9,6 +9,8 @@ import android.widget.Toast
 
 class MainActivity : AppCompatActivity(), DynamicDeliveryCallback  {
 
+    //this is for fork test
+
 
     private val CUSTOMER_SUPPORT_DYNAMIC_MODULE = "onDemand"
     private lateinit var dynamicModuleDownloadUtil: DynamicModuleDownloadUtil
